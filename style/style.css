@@ -1,0 +1,103 @@
+body{
+    background-color: #ffeae0;
+    font-family: 'Inter', sans-serif;
+}
+
+#welcome{
+    font-weight: bolder;
+    color: #245060;
+    font-size: 7vw;
+    text-align: center;
+    margin-top: 160px;
+}
+
+.pageHeader{
+    margin-top: 80px;
+    font-weight: bolder;
+    float: left;
+    color:#245060;
+    width: 34vw;
+    font-size: 4.5vw;
+    text-align: center;
+}
+
+/*add animation later that expands the options user can click*/
+.optionA{
+    font-weight: bolder;
+    float: left;
+    color: #609ebd;
+    font-size: 3.5vw;
+    width: 30vw;
+    text-align: center;
+    margin-top: 85px;
+}
+.optionH{
+    font-weight: bolder;
+    float: left;
+    color: #609ebd;
+    font-size: 3.5vw;
+    width: 31vw;
+    text-align: center;
+    margin-top: 85px;
+    margin-bottom: 20px;
+    
+}
+
+.fa-linkedin{
+    color: #245060;
+    font-size: 2.7vw;
+    position: relative;
+    top: 1%;
+    left: 95%;
+}
+
+.fa-house{
+    color: #245060;
+    font-size: 2.3vw;
+    position:relative;
+    top: 1%;
+    left: 93%;
+    float: left;
+}
+
+.ps{
+    font-weight: bold;
+    font-size: 1.5vw;
+}
+
+.list{
+    font-size: 1.5vw;
+}
+
+#aboutMeP{
+    width: 45vw;
+    margin-left: 5vw;
+    margin-top: 20vw;
+    float: left;
+    position:fixed;
+}
+
+#work1{
+    margin-top: 20vw;
+}
+
+#proj1{
+    margin-top: 1vw;
+}
+
+#me{
+    height: 30vw;
+    margin-left: 60%;
+    margin-top: 30px;
+}
+
+.projIm{
+    height: 15vw;
+    float: right;
+    border-style: groove;
+    border-color: #245060;
+}
+
+.projD{
+    height: 21vw;
+}
