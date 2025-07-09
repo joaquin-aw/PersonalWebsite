@@ -21,13 +21,12 @@ body{
     text-align: center;
 }
 
-/*add animation later that expands the options user can click*/
 .optionA{
     font-weight: bolder;
     float: left;
     color: #609ebd;
     font-size: 3.5vw;
-    width: 30vw;
+    width: 29vw;
     text-align: center;
     margin-top: 85px;
 }
